@@ -8,7 +8,7 @@
 ![Android](https://img.shields.io/badge/Android-5.0%2B-green?logo=android)
 ![iOS](https://img.shields.io/badge/iOS-13.0%2B-black?logo=apple)
 
-📖 **Full Article:** [A complete guide to hands-free note taking on Android & iOS using the speech_to_text package with Continuous Listening for both android & ios]()
+📖 **Full Article:** [A complete guide to hands-free note taking on Android & iOS using the speech_to_text package with Continuous Listening for both android & ios](https://medium.com/@surajpatil05/a-complete-guide-to-hands-free-note-taking-on-android-ios-using-the-speech-to-text-package-with-4050b4a2e96e)
 
 ## 📲 Screenshots
 
@@ -104,7 +104,7 @@ flutter run
 
 Two critical additions beyond the standard Flutter manifest:
 
-```xml
+```xmlV
 <!-- Runtime permissions -->
 <uses-permission android:name="android.permission.RECORD_AUDIO"/>
 <uses-permission android:name="android.permission.INTERNET"/>
